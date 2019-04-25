@@ -1,0 +1,15 @@
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\bin\Debug\rebbit01.exe.config
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\bin\Debug\rebbit01.exe
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\bin\Debug\rebbit01.pdb
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.frmRebbit.resources
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.Properties.Resources.resources
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.csproj.GenerateResource.Cache
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.exe
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.pdb
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\bin\Debug\AngleSharp.dll
+c:\users\prog5\documents\visual studio 2015\Projects\rebbit01\rebbit01\bin\Debug\AngleSharp.xml
+C:\Users\prog5\Documents\Visual Studio 2015\Projects\rebbit01\rebbit01\bin\Debug\Janus.Windows.Common.v4.dll
+C:\Users\prog5\Documents\Visual Studio 2015\Projects\rebbit01\rebbit01\bin\Debug\Janus.Windows.UI.v4.dll
+C:\Users\prog5\Documents\Visual Studio 2015\Projects\rebbit01\rebbit01\bin\Debug\Janus.Windows.Common.v4.xml
+C:\Users\prog5\Documents\Visual Studio 2015\Projects\rebbit01\rebbit01\bin\Debug\Janus.Windows.UI.v4.xml
+C:\Users\prog5\Documents\Visual Studio 2015\Projects\rebbit01\rebbit01\obj\Debug\rebbit01.csprojResolveAssemblyReference.cache
